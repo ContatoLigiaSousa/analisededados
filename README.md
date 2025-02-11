@@ -1,5 +1,6 @@
 # analisededados
 Casos de estudo a partir da análise de dados em planilhas
+
 *CASO1*
 A Vende-vende é uma loja de atacarejo que revende itens comprados em lote diretamente da China. Todos os itens são comprados por preços bem baixos, mas ao mesmo tempo, estão sujeitos a apresentar defeitos. Quando um cliente reclama do defeito, ele tem direito a troca do produto (que gera um prejuízo do preço de custo, ou seja, se ele gastou 5 reais para comprar o produto, teve um prejuízo de 5 reais) e o cliente ainda recebe um cashback de 10% do valor para produtos tipo A e 15% do valor para produtos tipo B (ou seja, recebe um valor que corresponde à porcentagem do preço de venda, ou seja, se ele comprou um produto do tipo A por 15 reais, vai ganhar R$ 1,50).
 
